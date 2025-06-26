@@ -58,14 +58,14 @@ This was built in a bedroom by a minor.
 If you dont know what you are doing and want to install MK-TAN_OmegaS, please follow these instructions:
 -# Please note, these instructions expect debian (apt) and sudo/root permissions.
 
-1. Install Python3:
+1. Install Python3:<br>
 `sudo apt update && sudo apt install python3`
 
-2. Download OmegaS and install dependencies
+2. Download OmegaS and install dependencies:<br>
 `git clone https://github.com/MAIN-MK-TAN/OmegaS && cd OmegaS && python3 -m pip install -r requirements.txt`
 
-3. Run OmegaS
-OmegaS's CLI 'binary' is located in `core`.
+3. Run OmegaS:<br>
+OmegaS's CLI 'binary' is located in `core`.<br>
 To start OmegaS, run `python3 core/controller.py`
 
 ---
