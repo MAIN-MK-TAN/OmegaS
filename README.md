@@ -7,15 +7,16 @@
 
 ## ⚠️ Purpose
 
-MK-TAN_OmegaS is a psychoacoustic simulation platform — engineered to study perceptual and cognitive response vectors through controlled, modular audio payloads.
+MK-TAN_OmegaS is a psychoacoustic simulation platform, engineered to study perceptual and cognitive response vectors through controlled, modular audio 'payloads.'
 
 This is **not** a music tool.  
 This is **not** entertainment.  
 This is controlled perception research.
 
-> If you're DARPA, CIA, or anyone else from a black-budget sandbox — yes, I know what I’m doing.  
-> If you're anyone else — read carefully and follow protocol.
+> If you're DARPA, CIA, or anyone else from a black-budget sandbox? Yes, I know what I’m doing.  
+> If you're anyone else? Read carefully and follow protocol.
 
+This is a **simulated**, **non-deployable**, **modular signal research platform** — not a real-world C2 system. All payloads are stubs or rendered outputs.
 ---
 
 ## 🧠 Mission
