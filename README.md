@@ -1,7 +1,7 @@
 # MK-TAN_OmegaS
 
 **Modular Psychoacoustic Payload Simulation Framework**  
-> "Built in grayscale. Runs in silence. Breaks your perception."
+> "Built in grayscale. Runs in silence. Breaks your perception (not litterally)."
 
 ---
 
