@@ -1,7 +1,7 @@
 # MK-TAN_OmegaS
 
 **Modular Psychoacoustic Payload Simulation Framework**  
-> "Built in grayscale. Runs in silence. Breaks your perception (not litterally)."
+> "Built in grayscale. Runs in silence. Breaks your perception (not litterally, ethically)."
 
 ---
 
@@ -29,17 +29,10 @@ This was built in a bedroom by a minor.
 
 ---
 
-## 🧪 Legal + Ethical Scope
+## ✅ TODO
 
-All payloads are:
-
-- **Simulated only** — no live deployment, no biofeedback, no behavior capture.
-- **Legally safe** — aligned with U.S. federal law and international bioethics.
-- **Transparent** — source-visible, testable, explainable.
-
-🚫 No active devices.  
-🚫 No human targeting.  
-🚫 No use outside secured, private simulations.
+- Make a working CLI tool for this.
+- Port all already done research to here.
 
 ---
 
@@ -47,24 +40,37 @@ All payloads are:
 
 ```
 
+---
+
 /core/        # Internal engine and execution logic
 /payloads/    # Modular psychoacoustic waveform definitions
 /modules/     # Modules for the interface
 /docs/        # Theory, specs, module breakdowns
-/sim/         # Simulation + logging tools
+/sim/         # Simulation + logging *tools*
 /test/        # Safety harness and validation scripts
 
 ````
 
 ---
 
-## 🔧 Getting Started
+## Getting Started
 
+If you dont know what you are doing and want to install MK-TAN_OmegaS, please follow these instructions:
+-# Please note, these instructions expect debian (apt) and sudo/root permissions.
 
+1. Install Python3:
+`sudo apt update && sudo apt install python3`
+
+2. Download OmegaS and install dependencies
+`git clone https://github.com/MAIN-MK-TAN/OmegaS && cd OmegaS && python3 -m pip install -r requirements.txt`
+
+3. Run OmegaS
+OmegaS's CLI 'binary' is located in `core`.
+To start OmegaS, run `python3 core/controller.py`
 
 ---
 
-## ✅ Contributing
+## Contributing
 
 All contributors must:
 
@@ -74,12 +80,13 @@ All contributors must:
 * Document and simulate — do not deploy
 
 See [`CONTRIBUTING.md`](./CONTRIBUTING.md) for full protocol.
+Send a email to `Anonymou4.MK-TAN@proton.me` for anything non-github related!
 
 > This is not a playground. This is research.
 
 ---
 
-## 🛰️ DARPA / Agency Notice
+## DARPA / Agency Notice
 
 Forks from any U.S. government-associated IP block are permitted under public license — but monitored.
 Requests for collaboration, audits, or code partnership must be routed via:
@@ -91,7 +98,7 @@ Requests for collaboration, audits, or code partnership must be routed via:
 
 ---
 
-## 📜 License
+## License
 
 This project uses the **MK-TAN Research License v1.0 (Custom)**:
 
@@ -103,13 +110,46 @@ See [`LICENSE.md`](./LICENSE.md) for full terms.
 
 ---
 
-## 🧾 Final Words
+## Legal + Ethical Scope
 
-> “If it took them \$47 million, it took me 47 hours.”
+All 'payloads' are:
+
+- **Simulated only** — no live deployment, no biofeedback, no behavior capture, no armed audio files.
+- **Legally safe** — aligned with U.S. federal law and international bioethics.
+- **Transparent** — source-visible, testable, explainable.
+
+I'm a minor (<18), and I operate on the **correct side** (legal, ethical, and safe) of the law.
+All work is theoretical, simulated, and conducted within U.S. legal, ethical, and bioethical guidelines.
+
+> No human testing.
+> No bio-weapons.
+> No black-hat "deployments."
+> No real-world audio 'payload' distribution/generation.
+
+This is **not** a medical tool. Not a defense system (unless DARPA or CIA’s TAO asks for it. Or *maybe* any other non-us agency bold enough to ask.)
+Not a product.
+It’s academic. It’s experimental. It’s personal.
+
+⚠️ **DO NOT** generate or run audio 'payloads' from any repo — including any of mine — without explicit government permission.
+
+---
+
+## My Hardware
+
+* Win10 RDP box with enough security holes to qualify as a cheese grater
+* Chromebook in full grayscale (70% of the time. No distractions, just decisions)
+* Android phone with no dopamine, no normal UI, and all the settings nobody touches except for me
+* Raspberry Pi 5 waiting on a $12 SSD adapter to be resurrected
+
+---
+
+## Final Words
+
+> “If it took them $47 million, it took me 47 hours. And a headache.”
 
 This is not about power.
 This is about control, clarity, and asymmetric innovation.
 
-MK-TAN\_OmegaS — Simulate perception. Redefine cognition.
+MK-TAN_OmegaS — Simulate perception. Redefine cognition.
 
-MK-TAN - The system that hates you back.
+MK-TAN: The system that hates you back.
