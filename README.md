@@ -25,7 +25,7 @@ This is controlled perception research.
 - Enable ethical, lawful research of human-machine perceptual boundaries.
 
 This is what most teams bury under clearance levels.  
-This was built in my room.
+This was built in a bedroom by a minor.
 
 ---
 
