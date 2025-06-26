@@ -31,8 +31,8 @@ This was built in a bedroom by a minor.
 
 ## ✅ TODO
 
-- Make a working CLI tool for this.
 - Port all already done research to here.
+- Add psychoacoustic simulations.
 
 ---
 
