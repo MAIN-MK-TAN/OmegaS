@@ -49,7 +49,7 @@ All payloads are:
 
 /core/        # Internal engine and execution logic
 /payloads/    # Modular psychoacoustic waveform definitions
-/cli/         # Command-line interface and UX logic
+/modules/     # Modules for the interface
 /docs/        # Theory, specs, module breakdowns
 /sim/         # Simulation + logging tools
 /test/        # Safety harness and validation scripts
