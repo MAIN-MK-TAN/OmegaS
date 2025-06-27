@@ -1,7 +1,7 @@
 # MK-TAN_OmegaS
 
 **Modular Psychoacoustic Payload Simulation Framework**  
-> "Built in grayscale. Runs in silence. Breaks your perception (not litterally, ethically)."
+> "Built in grayscale. Runs in silence. Breaks your perception (not literally, ethically)."
 
 ---
 
@@ -34,9 +34,8 @@ This was built in a bedroom by a sleep-deprived minor, originally with a mild he
 
 ## TODO
 
-- *Port existing research into public modules
+- Add more research into public modules/docs
 - *Add psychoacoustic simulations.
-- *Add JSON definitions of specific payloads/frequencies for quick analyzation
 
 ---
 
@@ -53,7 +52,7 @@ This was built in a bedroom by a sleep-deprived minor, originally with a mild he
 /sim/         # Simulation + logging *tools*
 /test/        # Safety harness and validation scripts
 
-````
+```
 
 ---
 
@@ -149,6 +148,11 @@ It’s academic. It’s experimental. It’s personal.
 This is not about power.
 This is about clarity, and asymmetric innovation.
 "*The human is more vulnerable than any computer*" - a wise man
+
+At specifically 2025-06-26T0300z, I realized this project might actually be of interest of domestic/foreign cybersecurity agencies..
+nice.
+
+more things to analyze/strategize = mental capacity training = less boredom.
 
 MK-TAN_OmegaS - Simulate perception. Redefine cognition.
 MK-TAN: The system that hates you back.
