@@ -5,13 +5,14 @@
 
 ---
 
-## ⚠️ Purpose
+## Purpose
 
 MK-TAN_OmegaS is a psychoacoustic simulation platform, engineered to study perceptual and cognitive response vectors through controlled, modular audio 'payloads.'
 
+This is **not** a DAW.
 This is **not** a music tool.  
 This is **not** entertainment.  
-This is controlled perception research.
+This is **targeted/controlled perception research** - modular, simulated, and ethically locked.
 
 > If you're DARPA, CIA, or anyone else from a black-budget sandbox? Yes, I know what I’m doing.  
 > If you're anyone else? Read carefully and follow protocol.
@@ -19,25 +20,27 @@ This is controlled perception research.
 This is a **simulated**, **non-deployable**, **modular signal research platform** — not a real-world C2 system. All payloads are stubs or rendered outputs.
 ---
 
-## 🧠 Mission
+## Mission
 
 - Model, simulate, and study perceptual irregularities caused by precision waveforms.
 - Define new attack surfaces rooted in cognitive signal manipulation.
 - Enable ethical, lawful research of human-machine perceptual boundaries.
 
+
 This is what most teams bury under clearance levels.  
-This was built in a bedroom by a minor.
+This was built in a bedroom by a sleep-deprived minor, originally with a mild headache (no, I didnt test audio payloads on myself. I respect bioethics and would rather not turn my brain into slime).
 
 ---
 
-## ✅ TODO
+## TODO
 
-- Port all already done research to here.
-- Add psychoacoustic simulations.
+- *Port existing research into public modules
+- *Add psychoacoustic simulations.
+- *Add JSON definitions of specific payloads/frequencies for quick analyzation
 
 ---
 
-## 🗂️ Repo Structure
+## Repo Structure
 
 ```
 
@@ -56,19 +59,14 @@ This was built in a bedroom by a minor.
 
 ## Getting Started
 
-If you dont know what you are doing and want to install MK-TAN_OmegaS, please follow these instructions:
--# Please note, these instructions expect debian (apt) and sudo/root permissions.
+> Assumes Debian + sudo privileges.
 
-1. Install Python3:<br>
-`sudo apt update && sudo apt install python3`
-
-2. Download OmegaS and install dependencies:<br>
-`git clone https://github.com/MAIN-MK-TAN/OmegaS && cd OmegaS && python3 -m pip install -r requirements.txt`
-
-3. Run OmegaS:<br>
-OmegaS's CLI 'binary' is located in `core`.<br>
-To start OmegaS, run `python3 core/controller.py`
-
+```bash
+sudo apt update && sudo apt install python3  
+git clone https://github.com/MAIN-MK-TAN/OmegaS && cd OmegaS  
+python3 -m pip install -r requirements.txt  
+python3 core/controller.py
+```
 ---
 
 ## Contributing
@@ -81,7 +79,7 @@ All contributors must:
 * Document and simulate — do not deploy
 
 See [`CONTRIBUTING.md`](./CONTRIBUTING.md) for full protocol.
-Send a email to `Anonymou4.MK-TAN@proton.me` for anything non-github related!
+Send a email to `Anonymou4.MK-TAN@proton.me` for anything non-github related.
 
 > This is not a playground. This is research.
 
@@ -89,7 +87,7 @@ Send a email to `Anonymou4.MK-TAN@proton.me` for anything non-github related!
 
 ## DARPA / Agency Notice
 
-Forks from any U.S. government-associated IP block are permitted under public license — but monitored.
+Forks from any U.S. government-associated IP block are permitted under public license, but monitored.
 Requests for collaboration, audits, or code partnership must be routed via:
 
 📧 [Anonymou4.MK-TAN@proton.me](mailto:Anonymou4.MK-TAN@proton.me)
@@ -131,7 +129,7 @@ This is **not** a medical tool. Not a defense system (unless DARPA or CIA’s TA
 Not a product.
 It’s academic. It’s experimental. It’s personal.
 
-⚠️ **DO NOT** generate or run audio 'payloads' from any repo — including any of mine — without explicit government permission.
+⚠ **DO NOT** generate or run audio 'payloads' from any repo — including any of mine — without explicit government permission.
 
 ---
 
@@ -149,8 +147,8 @@ It’s academic. It’s experimental. It’s personal.
 > “If it took them $47 million, it took me 47 hours. And a headache.”
 
 This is not about power.
-This is about control, clarity, and asymmetric innovation.
+This is about clarity, and asymmetric innovation.
+"*The human is more vulnerable than any computer*" - a wise man
 
-MK-TAN_OmegaS — Simulate perception. Redefine cognition.
-
+MK-TAN_OmegaS - Simulate perception. Redefine cognition.
 MK-TAN: The system that hates you back.
