@@ -26,15 +26,17 @@ class OmegaShell:
             if cmd == "exit":
                 break
             elif cmd == "help":
-                print("Placeholder...")
-            elif cmd.startswith == "help ":
-                print("Placeholder...")
+                print("Clommands:\nshow\nuse\nrun\nexit")
+            elif cmd.startswith("help "):
+                if cmd == "help show":
+                    print("Syntax:\nshow {arg1}\n\nAvaliable arguments: modules")
             elif cmd == "show":
                 print("Please use 'help show' (or read the code) for intel on how to use 'show'.")
-            elif cmd.startswith == "show ":
+            elif cmd.startswith("show "):
                 if cmd == "show modules":
                     for name in self.modules:
                         print(f"- {name}")
+                else: print("Invalid argument.")
             elif cmd.startswith("use "):
                 name = cmd[4:]
                 if name in self.modules:
