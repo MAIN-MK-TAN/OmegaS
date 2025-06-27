@@ -1,0 +1,10 @@
+{
+  "wave_type": "Delta",
+  "frequency_range_hz": "0.5–4",
+  "theoretical_effects": ["Unconscious/Subconscious access"],
+  "use_cases": [
+    "Entertainment-prone mental passivity (~65%)",
+    "Sleepiness (~90%)",
+    "Possible artificial trust (target-dependent, ~35%)"
+  ]
+}

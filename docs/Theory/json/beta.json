@@ -1,0 +1,11 @@
+{
+  "wave_type": "Beta",
+  "frequency_range_hz": "12–30",
+  "theoretical_effects": ["Alertness", "Concentration", "Stress"],
+  "use_cases": [
+    "Induced mental fatigue (~85%)",
+    "Controlled focus loop injection (~60%)",
+    "Alpha/Theta desync pairing (~75%)",
+    "Synthetic ADHD mimicry (~45%)"
+  ]
+}

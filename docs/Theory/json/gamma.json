@@ -1,0 +1,11 @@
+{
+  "wave_type": "Gamma",
+  "frequency_range_hz": "30–100",
+  "theoretical_effects": ["Higher mental activity", "Perception binding", "Memory"],
+  "use_cases": [
+    "Mental strain amplification (~65%)",
+    "False pattern recognition spikes (~50%)",
+    "Memory distortion via overload (~55%)",
+    "Stress tolerance breaking (~60%+ if primed with Beta)"
+  ]
+}

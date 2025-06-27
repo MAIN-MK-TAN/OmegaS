@@ -1,0 +1,11 @@
+{
+  "wave_type": "Ultrasonic/Subsonic",
+  "frequency_range_hz": "<20 / >20,000",
+  "theoretical_effects": ["Non-conscious physical/cognitive interactions"],
+  "use_cases": [
+    "Subliminal priming (~50–70%)",
+    "Cognitive discomfort w/o identifiable source (~60–80%)",
+    "Spatial field simulation potential (~75%)",
+    "Internal rhythm interference (<10Hz) (~65%)"
+  ]
+}

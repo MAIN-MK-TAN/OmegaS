@@ -1,0 +1,11 @@
+{
+  "wave_type": "Binaural Beats",
+  "frequency_range_hz": "Variable (inter-band delta)",
+  "theoretical_effects": ["Inter-hemispheric syncing", "Suggestibility"],
+  "use_cases": [
+    "Emotional instability amplification (~60%)",
+    "Sleep cycle disruption mimicry (~70%)",
+    "Layered state entry (~65%)",
+    "False relaxation entrainment (~75%)"
+  ]
+}

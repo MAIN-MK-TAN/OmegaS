@@ -1,0 +1,11 @@
+{
+  "wave_type": "Synthetic/Modulated Pulse Clusters",
+  "frequency_range_hz": "Engineered patterns",
+  "theoretical_effects": ["Pattern intrusion", "Semi-random disruption"],
+  "use_cases": [
+    "Perception lag injection (~55–65%)",
+    "False relaxation > cognitive drop (~60–80%)",
+    "Internal dissonance induction (~70%)",
+    "Phase-drift weaponization (experimental, ~40%)"
+  ]
+}

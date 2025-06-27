@@ -1,0 +1,90 @@
+WAVE TYPES, EFFECTS, AND POSSIBLE USES
+
+----
+
+WAVE TYPES:
+
+Delta Waves (0.5–4Hz)
+Theoretical Effects: Unconscious / Subconscious access
+Possible use cases:
+- Entertainment-prone mental passivity (~60–75%)
+- Sleepiness (~85–95%)
+- Possible (unlikely, target-dependent) artificial trust (~15–30%)
+- Suggestion priming when combined with theta/alpha (~40%)
+
+----
+
+Theta Waves (4–8Hz)
+Theoretical Effects: Relaxation, Creativity, Emotional Healing
+Possible use cases:
+- False comfort (~75%)
+- Preparing a more 'dangerous' payload (~80%)
+- Possible loss of focus (~65–85%)
+- Increased suggestibility to language patterns (~60%)
+- Light hypnagogic mimicry (~20–35%)
+
+----
+
+Alpha Waves (8–12Hz)
+Theoretical Effects: Relaxation, Calm, Focus
+Possible use cases:
+- False calm (~70–80%)
+- Cognitive confusion when paired with stress-inducing overlays (~90%+)
+- False sense of safety (~50–75%)
+- Subtle processing slowdown (~35–55%)
+
+----
+
+Beta Waves (12–30Hz)
+Theoretical Effects: Alertness, Concentration, Stress
+Possible use cases:
+- Induced mental fatigue via prolonged over-alertness (~85%)
+- Controlled focus loop injection (~65%)
+- Combined with alpha/theta for perceptual desync (~75%)
+- Synthetic ADHD mimicry (~55–70%)
+
+----
+
+Gamma Waves (30–100Hz)
+Theoretical Effects: Higher mental activity, perception binding, memory
+Possible use cases:
+- Amplified mental strain when combined with load stimuli (~70–85%)
+- False pattern recognition spikes (~55–65%)
+- Memory distortions via overload + semantic flooding (~60%)
+- Stress tolerance override threshold (~60%+ when primed)
+
+----
+
+Ultrasonic (>20,000Hz) & Subsonic (<20Hz)
+Theoretical Effects: Non-conscious physical/cognitive resonance
+Possible use cases:
+- Subliminal priming via sub-perceptual vibration (~45%)
+- Discomfort generation w/o identifiable source (~65–80%)
+- Weaponization potential via directional control (~75%)
+- Disruption of internal rhythm + mild nausea (<10Hz) (~55–70%)
+
+----
+
+Binaural Beats (custom multi-band delta)
+Theoretical Effects: Hemispheric syncing, entrainment, cognitive opening
+Possible use cases:
+- Emotional instability amplification (~60–80%)
+- Sleep cycle mimicry disruption (~50–70%)
+- Gateway state layering into deeper entrainment fields (~60%)
+- Entrapment in false “relaxation” loop (~80% for neurodivergent targets)
+
+----
+
+Synthetic / Modulated Pulse Clusters
+Theoretical Effects: Pattern intrusion, semi-random disruption
+Possible use cases:
+- Perception lag injection (~65–75%)
+- False relaxation then cognitive drop (~70%)
+- Induced unidentifiable internal dissonance (~60%)
+- Phase-drift cognitive instability (~40–55%, experimental)
+
+----
+
+DISCLAIMER: All % estimates and effects are simulation-stage predictions, not clinically confirmed. No real audio is produced. No testing is done on live subjects.  
+Payloads are simulated waveform descriptors only.  
+This is lawful U.S.-aligned cognitive engineering research.

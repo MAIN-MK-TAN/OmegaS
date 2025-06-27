@@ -1,0 +1,10 @@
+{
+  "wave_type": "Alpha",
+  "frequency_range_hz": "8–12",
+  "theoretical_effects": ["Relaxation", "Calm", "Focus"],
+  "use_cases": [
+    "False calm (~70–80%)",
+    "Cognitive confusion w/ stress sounds (~90%+)",
+    "False sense of safety (~50–75%)"
+  ]
+}
