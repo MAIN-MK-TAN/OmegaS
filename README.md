@@ -34,8 +34,9 @@ This was built in a bedroom by a sleep-deprived minor, originally with a mild he
 
 ## TODO
 
-- Add more research into public modules/docs
-- *Add psychoacoustic simulations.
+- (future) Add more research into public modules/docs
+- (future) *Add psychoacoustic simulations.
+- (focus)  Work on the 'C2'/CLI
 
 ---
 
