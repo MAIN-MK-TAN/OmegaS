@@ -128,7 +128,7 @@ This is **not** a medical tool. Not a defense system (unless DARPA or CIA’s TA
 Not a product.
 It’s academic. It’s experimental. It’s personal.
 
-⚠ **DO NOT** generate or run audio 'payloads' from any repo — including any of mine — without explicit government permission.
+⚠ **DO NOT** generate or run audio 'payloads' from any repo — including any of mine — AT ALL. EVER.
 
 ---
 
