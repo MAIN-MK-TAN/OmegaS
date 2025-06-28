@@ -1,0 +1,65 @@
+{
+  "name": "",
+  "description": "",
+  "tags": [],
+  "base_frequency": 0.000,
+  "overtones": [],
+  "modulation": {
+    "layers": [
+      {
+        "type": "",
+        "rate_hz": 0.0,
+        "depth_percent": 0
+      },
+      {
+        "type": "",
+        "rate_hz": 0.0,
+        "range_hz": 0.0
+      },
+      {
+        "type": "",
+        "phase_offset_deg": 0.0
+      }
+    ]
+  },
+  "burst_pattern": {
+    "on_duration_ms": 0,
+    "off_duration_ms": 0,
+    "repeat": 0,
+    "stochastic_offset_ms": {
+      "min": 0,
+      "max": 0
+    }
+  },
+  "output_envelope": {
+    "attack_ms": 0,
+    "release_ms": 0,
+    "sustain_level": 0.0,
+    "curve_type": ""
+  },
+  "environment_adaptation": {
+    "room_type": "",
+    "reflection_estimate": 0.0,
+    "reverb_tail_ms": 0,
+    "listener_offset_m": 0.0
+  },
+  "temporal_alignment": {
+    "start_delay_ms": 0,
+    "sync_signal": "",
+    "timing_precision_us": 0
+  },
+  "entropy_injection": {
+    "enabled": false,
+    "method": "",
+    "range": {
+      "min_deg": 0.0,
+      "max_deg": 0.0
+    }
+  },
+  "simulated_effect": {
+    "primary": "",
+    "secondary": [],
+    "onset_time_ms": 0,
+    "decay_time_ms": 0
+  }
+}

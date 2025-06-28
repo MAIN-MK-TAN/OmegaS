@@ -1,99 +1,147 @@
-# Contributing to MK-TAN_OmegaS
+Contributing to MK-TAN_OmegaS
 
-Welcome to **MK-TAN_OmegaS**, a modular framework for exploring cognitive response surfaces through precision psychoacoustic payload simulation.
+Welcome to MK-TAN_OmegaS, a modular framework for exploring cognitive response surfaces through precision psychoacoustic payload simulation.
 
 This project is not entertainment. It's not for dopamine. It is engineered for clarity, disruption, and edge-case behavioral study — within U.S. legal and bioethical guidelines.
 
 If you're here to help shape the most unconventional cognitive payload research project on GitHub, read this carefully.
 
----
-
-## 🧠 Core Principles
-
-- **Legality First** — All contributions must align with U.S. federal law and international bioethics frameworks.  
-- **Transparency Required** — No black-box submissions, encrypted blobs, or untraceable binaries.  
-- **High-Discipline Only** — This is not a toy. Submissions must be minimal, well-structured, and well-documented.
 
 ---
 
-## 🛠️ How to Contribute
+🧠 Core Principles
 
-### 1. Fork the Project
+Legality First — All contributions must align with U.S. federal law and international bioethics frameworks.
+
+Transparency Required — No black-box submissions, encrypted blobs, or untraceable binaries.
+
+High-Discipline Only — This is not a toy. Submissions must be minimal, well-structured, and well-documented.
+
+
+
+---
+
+🛠️ How to Contribute
+
+1. Fork the Project
+
 Fork this repo and clone your fork locally.
 
-```git clone https://github.com/YOUR_USERNAME/MK-TAN_OmegaS.git```
+git clone https://github.com/YOUR_USERNAME/MK-TAN_OmegaS.git
 
-### 2. Follow Project Structure
+2. Follow Project Structure
 
 Stick to the modular architecture:
 
-* `/core/` – internal framework logic
-* `/payloads/` – defined psychoacoustic or signal manipulation modules
-* `/cli/` – command-line interface logic
-* `/docs/` – documentation, specs, and theory
-* `/sim/` – simulation or logging tools
-* etc.
+/core/ – internal framework logic
+
+/payloads/ – defined psychoacoustic or signal manipulation modules
+
+/cli/ – command-line interface logic
+
+/docs/ – documentation, specs, and theory
+
+/sim/ – simulation or logging tools
+
+etc.
+
 
 Do not mix concerns across modules.
 
-### 3. Sign the CLA
+3. Sign the CLA
 
-You **must** read and agree to the [CLA](./CLA.md) before submitting.
+You must read and agree to the CLA before submitting.
 
-You agree to:
+By doing so, you agree to:
 
-* Keep forks public
-* Follow U.S. bioethical and U.S. ethical guidelines
-* Allow oversight by the maintainer
+Keep forks public and open-source
 
-### 4. Add Documentation
+Follow U.S. legal and bioethical standards
 
-Each module or payload **must** include:
+Accept monitoring, audit, and documentation requests by the Maintainer
 
-* A short Markdown doc in `/docs/` explaining purpose, inputs, ranges
-* A simulated output screenshot or `.log` file (if applicable)
+Comply with takedown requests if your fork or contribution violates the project’s ethical or operational boundaries
 
-### 5. Make a Pull Request
+
+4. Add Documentation
+
+Each module or payload must include:
+
+A concise Markdown doc in /docs/ explaining purpose, parameters, and behavior
+
+A simulated output .log, diagram, or screenshot (if applicable)
+
+
+5. Make a Pull Request
 
 Push your changes and open a PR.
 
-* Include a summary of what you changed
-* Reference any related issues
-* Mention if this is an experimental or stable module
+Include:
+
+A clear summary of what was changed or added
+
+Any references to related issues
+
+Whether the contribution is experimental or stable
+
+
 
 ---
 
-## ⚠️ Do Not Submit
+⚠️ Do Not Submit
 
-* Audio files with active payloads
-* Binary-only contributions
-* Obfuscated, encrypted, or AI-generated blobs
-* Anything you wouldn’t be able to explain in court
+Audio files with active or testable payloads
 
----
+Binary-only contributions
 
-## 🧪 Research-Only, Legally Safe
+Obfuscated, encrypted, or AI-generated blobs
 
-All modules must simulate or log — no active deployment.
-Payloads **must not** target real individuals, devices, or environments. AT ALL.
+Anything you wouldn't confidently defend in a courtroom or audit
 
-This is for research and analysis, not influence or deployment.
+
 
 ---
 
-## 🛰️ Government + Research Partners
+🧪 Research-Only, Legally Safe
 
-If you’re from DARPA, CIA, MITRE, or similar:
-We’re open to collaboration, but require full transparency, attribution, and code exposure.
+All contributions must simulate or log only — no active deployment.
 
-**You fork it — we watch it.**
+Payloads must never target real individuals, environments, or hardware.
+This is for controlled analysis and defensive cognition study, not deployment or manipulation.
+
 
 ---
 
-## 🧾 Final Notes
+🛰️ Government + Research Partners
 
-* Respect the mission: cognitive weaponization without compromise.
-* We build for clarity, not comfort.
-* We simulate to understand, not to harm.
+If you're from DARPA, CIA, MITRE, IARPA, or another agency:
+
+We're open to collaboration. However:
+
+All forks must remain visible and auditable
+
+Attribution is required
+
+Code changes and use cases must be clearly disclosed
+
+
+You fork it — we observe it.
+
+
+---
+
+🧾 Final Notes
+
+Respect the mission: cognitive weaponization without compromise.
+
+We simulate for clarity, not confusion.
+
+We build for analysis, not harm.
+
 
 Let’s redefine the boundaries of digital perception — together.
+
+
+---
+
+– MK-TAN: The system that hated you back.
