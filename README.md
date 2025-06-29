@@ -37,7 +37,7 @@ This was built in a bedroom by a sleep-deprived minor, originally with a mild he
 - 25+ Clones - Achieved [2025-06-26]
 - 50+ Clones - Achieved [2025-06-27]
 - 75+ Clones - Achieved [2025-06-29]
-
+<br><br>
 - 200+ Views - Achieved [2025-06-26]
 - 275   Views - Achieved [2025-06-27]
 - 300+ Views - Achieved [2025-06-28]
