@@ -34,9 +34,10 @@ This was built in a bedroom by a sleep-deprived minor, originally with a mild he
 
 ## TODO
 
-- (future) Add more research into public modules/docs
-- (future) *Add psychoacoustic simulations.
-- (focus)  Work on the 'C2'/CLI
+- (future) *Add psychoacoustic simulator.
+- (background task) Work on the 'C2'/CLI.
+- (focus) Add more research into public modules/docs.
+- (focus) Expirement with advanced simulations.
 
 ---
 
