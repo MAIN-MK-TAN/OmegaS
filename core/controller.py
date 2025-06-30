@@ -81,10 +81,18 @@ class OmegaShell:
                 else:
                     print("Invalid type. Run 'help use' for help.")
             elif cmd == "run":
+                print("Invalid arguments. Use 'run module' or 'run payload'.")
+            elif cmd == "run module":
                 if self.active_module:
                     self.active_module.run()
                 else:
                     print("No module loaded.")
+            elif cmd == "run payload":
+                if self.active_payload:
+                    if self.active_module:
+                        self.active_module.run(self.active_payload)
+                    else:
+                        print("No module loaded to execute the payload.")
             elif cmd == "testpayload":
                 if self.active_payload:
                     print(json.dumps(self.active_payload, indent=2))

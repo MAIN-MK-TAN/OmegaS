@@ -1,0 +1,9 @@
+{
+    "frequency_id": 1,
+    "frequencies": [343, 341.3],
+    "delivery": "binaural alternation",
+    "amplitude_modulation": "4 Hz",
+    "exposure_time": "00:00:20.000",
+    "expected_effect": "mild stress/discomfort",
+    "tags": ["stressor", "entrainment_disruptor"]
+}
