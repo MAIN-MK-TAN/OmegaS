@@ -32,11 +32,25 @@ This was built in a bedroom by a sleep-deprived minor, originally with a mild he
 
 ---
 
+## Milestones
+
+- 25+ Clones - Achieved [2025-06-26]
+- 50+ Clones - Achieved [2025-06-27]
+- 75+ Clones - Achieved [2025-06-29]
+<br><br>
+- 200+ Views - Achieved [2025-06-26]
+- 275   Views - Achieved [2025-06-27]
+- 300+ Views - Achieved [2025-06-28]
+
+
+"IM GOIN' VIRAL.. im being watched, but.. not via GitHub's watch thing...." - Anonymou4.MK-TAN
+
 ## TODO
 
-- (future) Add more research into public modules/docs
-- (future) *Add psychoacoustic simulations.
-- (focus)  Work on the 'C2'/CLI
+- (future) *Add psychoacoustic simulator.
+- (background task) Work on the 'C2'/CLI.
+- (focus) Add more research into public modules/docs.
+- (focus) Expirement with advanced simulations.
 
 ---
 
