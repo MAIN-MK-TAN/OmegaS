@@ -113,7 +113,7 @@ Requests for collaboration, audits, or code partnership must be routed via:
 
 ## License
 
-This project uses the **MK-TAN Research License v1.0 (Custom)**:
+This project uses the **MK-TAN Research License v1.1 (Custom)**:
 
 * All forks must be public.
 * All uses must remain within U.S. legal + bioethical frameworks.
