@@ -139,7 +139,7 @@ All work is theoretical, simulated, and conducted within U.S. legal, ethical, an
 > No black-hat "deployments."
 > No real-world audio 'payload' distribution/generation.
 
-This is **not** a medical tool. Not a defense system (unless DARPA or NSA’s TAO asks for it. Or *maybe* any other non-us agency bold enough to ask.)
+This is **not** a medical tool. Not a defense system (unless DARPA or NSA’s TAO initiates formal contact. Other agencies may request, but no guarantees.)
 Not a product.
 It’s academic. It’s experimental. It’s personal.
 
