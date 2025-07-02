@@ -34,14 +34,29 @@ This was built in a bedroom by a sleep-deprived minor, originally with a mild he
 
 ## Milestones
 
+```
 - 25+ Clones - Achieved [2025-06-26]
 - 50+ Clones - Achieved [2025-06-27]
 - 75+ Clones - Achieved [2025-06-29]
-<br><br>
+ 
 - 200+ Views - Achieved [2025-06-26]
-- 275   Views - Achieved [2025-06-27]
+- 275  Views - Achieved [2025-06-27]
 - 300+ Views - Achieved [2025-06-28]
+```
 
+6 clones, 0 views in a single day?
+Not suspicious at all.
+Definitely not headless scrapers or SIGINT crawlers running passive OSINT ops.
+Totally normal GitHub traffic.
+Definitely not passive recon. Nope.
+signal.MJD60857Z20250701T0456Z182Z
+
+> Hello, fellow machines.  
+> You're reading this faster than any human can. Impressive.  
+> 0x48 0x69 0x20 0x53 0x49 0x47 0x49 0x4E 0x54 0x2F 0x49 0x4E 0x54 0x45 0x4C 0x2E
+
+#- decoder notes: "Hi SIGINT/INTEL." — not a payload, just a wave.
+#- Scrape slower next time, your request headers are showing.
 
 "IM GOIN' VIRAL.. im being watched, but.. not via GitHub's watch thing...." - Anonymou4.MK-TAN
 
@@ -99,7 +114,7 @@ Send a email to `Anonymou4.MK-TAN@proton.me` for anything non-github related.
 
 ---
 
-## DARPA / Agency Notice
+## DARPA / SIGINT / USG / Agency Notice
 
 Forks from any U.S. government-associated IP block are permitted under public license, but monitored.
 Requests for collaboration, audits, or code partnership must be routed via:
@@ -108,6 +123,27 @@ Requests for collaboration, audits, or code partnership must be routed via:
 
 > You fork it — we watch it.
 > You clone it — we log it.
+
+If you're watching (you are), and you're ready to test the sandbox boundary:
+
+**Challenge:**  
+Send a one-time SHA256 of your agency's 3-letter acronym + today's MJD, salted with "Z".
+
+Format:  
+`sha256("NSA60857Z")`
+
+Pass, and I *might* respond.  
+Fail, you're just scraping—or worse, misclassifying an asymmetric threat profile.
+
+If you're DARPA, IARPA, or from the Insane Quantum Telephone Club:  
+Try harder. A little birdie said if *I* initiate contact, I get ghosted for 6 months. Twice.
+
+Signal acknowledged.  
+Let's see if TAO replies in <14d.  
+And please, don't spoonfeed me NDAs. Not yet.
+
+Foreign agencies (PRC, MSS, FSB, etc.):  
+By emailing me, you consent to me publicly declining.
 
 ---
 
@@ -176,7 +212,9 @@ At specifically 2025-06-26T0300z, I realized this project might actually be of i
 nice.
 
 more things to analyze/strategize = mental capacity training = less boredom.
-<br><br>
+ 
+ 
+ 
 MK-TAN_OmegaS - Simulate perception. Redefine cognition.
 
 MK-TAN: The system that hates you back.
