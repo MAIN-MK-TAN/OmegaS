@@ -44,11 +44,13 @@ This was built in a bedroom by a sleep-deprived minor, originally with a mild he
 - 300+ Views - Achieved [2025-06-28]
 ```
 
-6 clones, 0 views in a single day?
-Not suspicious at all.
-Definitely not headless scrapers or SIGINT crawlers running passive OSINT ops.
-Totally normal GitHub traffic.
+6 clones, 0 views in a single day?<br>
+Not suspicious at all.<br>
+Definitely not headless scrapers or SIGINT crawlers running passive OSINT ops.<br>
+Totally normal GitHub traffic.<br>
 Definitely not passive recon. Nope.
+ 
+ 
 signal.MJD60857Z20250701T0456Z182Z
 
 > Hello, fellow machines.  
