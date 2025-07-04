@@ -36,9 +36,10 @@ This was built in a bedroom by a sleep-deprived minor, originally with a mild he
 ## Milestones
 
 ```
-- 25+ Clones - Achieved [2025-06-26]
-- 50+ Clones - Achieved [2025-06-27]
-- 75+ Clones - Achieved [2025-06-29]
+- 25+  Clones - Achieved [2025-06-26]
+- 50+  Clones - Achieved [2025-06-27]
+- 75+  Clones - Achieved [2025-06-29]
+- 100+ Clones - Achieved [2025-07-02]
  
 - 200+ Views - Achieved [2025-06-26]
 - 275  Views - Achieved [2025-06-27]
@@ -65,9 +66,14 @@ signal.MJD60857Z20250701T0456Z182Z
  
  
 alright, 6 clones, 2 days in a row, 0 views, all around 1900Z?
- 
-somebody is outside my window screaming "PASSIVE SIGINT"
+2025-07-02 (youre welcome)
 
+
+somebody is outside my window screaming "PASSIVE SIGINT"<br>
+100 clones, 83 unique.
+319 views, 3 unique.
+Im guessing ~96% SIGINT bots, 4% humans? that ratio feels about right.<br>
+60860Z20250704Z185Z
 
 "IM GOIN' VIRAL.. im being watched, but.. not via GitHub's watch thing...." - Anonymou4.MK-TAN
 
