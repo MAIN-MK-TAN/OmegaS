@@ -1,0 +1,9 @@
+{
+  "frequency_id": 4,
+  "frequencies": [12000, 12400],
+  "delivery": "phase-shifted stereo",
+  "amplitude_modulation": "13 Hz",
+  "exposure_time": "00:00:25.000",
+  "expected_effect": "auditory discomfort, high-frequency ear fatigue",
+  "tags": ["highfreq_stressor", "edge-of-perception", "grey_noise_sim"]
+}
