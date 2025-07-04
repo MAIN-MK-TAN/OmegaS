@@ -1,0 +1,9 @@
+{
+  "frequency_id": 5,
+  "frequencies": [900, 450, 900],
+  "delivery": "pattern loop (sine-saw-sine)",
+  "amplitude_modulation": "1 Hz",
+  "exposure_time": "00:00:45.000",
+  "expected_effect": "stress via false alarm mimicry",
+  "tags": ["alarm_mimic", "psychological_noise", "threat_pattern_trigger"]
+}
