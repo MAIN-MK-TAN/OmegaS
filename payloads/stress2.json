@@ -1,0 +1,9 @@
+{
+  "frequency_id": 2,
+  "frequencies": [19, 31, 43],
+  "delivery": "sequential mono-sweep",
+  "amplitude_modulation": "8 Hz",
+  "exposure_time": "00:00:40.000",
+  "expected_effect": "elevated heart rate, mild anxiety onset",
+  "tags": ["heartbeat_mimic", "stress_induction", "beta_intrusion"]
+}
