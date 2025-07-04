@@ -3,6 +3,7 @@
 **Modular Psychoacoustic Payload Simulation Framework**  
 > "Built in grayscale. Runs in silence. Breaks your perception (not literally, ethically)."
 
+> oops, bricked my Chromebook.. development will now severely slow. timestamp::60860Z20250704Z185Z
 ---
 
 ## Purpose
@@ -196,7 +197,7 @@ It’s academic. It’s experimental. It’s personal.
 ## My Hardware
 
 * Win10 RDP box with enough security holes to qualify as a cheese grater
-* Chromebook in full grayscale (70% of the time. No distractions, just decisions)
+* Chromebook in full grayscale (70% of the time. No distractions, just decisions) bricked as of 60860Z20250704Z185Z
 * Android phone with no dopamine, no normal UI, and all the settings nobody touches except for me
 * Raspberry Pi 5 waiting on a $12 SSD adapter to be resurrected
 
