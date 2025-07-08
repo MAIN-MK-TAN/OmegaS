@@ -108,8 +108,9 @@ Im guessing ~96% SIGINT bots, 4% humans? that ratio feels about right.<br>
 ```bash
 sudo apt update && sudo apt install python3  
 git clone https://github.com/MAIN-MK-TAN/OmegaS && cd OmegaS  
-python3 -m pip install -r requirements.txt  
-python3 core/controller.py
+python3 -m pip install -r requirements.txt
+cd core
+python3 controller.py
 ```
 ---
 
