@@ -1,0 +1,9 @@
+{
+    "frequency_id": 5,
+    "frequencies": [712.2,313,20.7,414],
+    "delivery": "binaural alternation",
+    "amplitude_modulation": "2 Hz",
+    "exposure_time": "00:00:20.000",
+    "expected_effect": "disorientation OR confusion",
+    "tags": ["entrainment_disruptor"]
+}
