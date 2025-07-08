@@ -1,3 +1,4 @@
 import os
 
-os.system("python3 core/controller.py")
+os.system("cd core")
+os.system("python3 controller.py")
