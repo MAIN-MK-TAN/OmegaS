@@ -4,6 +4,15 @@
 > "Built in grayscale. Runs in silence. Breaks your perception (not literally, ethically)."
 ---
 
+## ⚠ Project Status: Temporarily Discontinued
+
+This project will be paused while I shift focus toward projects that better align with my core technical skillset. I plan to release an actual multi-platform C2 framework under the codename `MK-TAN_INFL`.
+
+This marks a pivot from perceptual simulation (`MK-TAN_OmegaS`) to operational control infrastructure.
+
+Peace, SIGINT bots… for now.
+
+---
 ## Purpose
 
 MK-TAN_OmegaS is a psychoacoustic simulation platform, engineered to study perceptual and cognitive response vectors through controlled, modular audio 'payloads.'
